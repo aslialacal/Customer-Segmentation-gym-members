@@ -118,10 +118,8 @@ Cluster 6 – High BMI
 tidyverse
 cluster
 factoextra
-GGally
 scales
 reshape2
-gridExtra
-ggthemes
+
 
 
