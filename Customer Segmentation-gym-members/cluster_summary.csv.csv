@@ -1,0 +1,7 @@
+Cluster,Count,Avg_Age,Gender Ratio,Avg_BMI,Avg_Calories,Avg_Session_Duration,Avg_Workout_Frequency,Avg_Experience,Avg_Water_Intake,Avg_Fat_Percent,Top_Workout_Type
+1,144,39.2,0.55,21.8,790.8,1.12,3.07,1.6,2.41,27.9,Yoga
+2,192,38.3,0.47,24.7,1265.2,1.76,4.53,3,3.13,14.8,Yoga
+3,129,39.8,0.68,22.3,813.2,1.16,3.04,1.5,2.31,28.4,HIIT
+4,153,38.1,0.68,22.5,783.2,1.1,2.97,1.5,2.36,28.6,Cardio
+5,174,39.5,0.58,22.1,826.9,1.15,3.11,1.5,2.37,28.2,Strength
+6,181,37.6,0,34.2,859.6,1.13,2.94,1.5,2.96,24.8,Cardio
